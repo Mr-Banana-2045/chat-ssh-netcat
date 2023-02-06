@@ -5,6 +5,9 @@ data transfer
 
 ![Screenshot (61)](https://user-images.githubusercontent.com/109140672/216845842-68668664-0a5e-42f7-ba49-db4556a0e73c.png)
 
+* NetCat
+* SSH
+
 <pre>
 git clone https://github.com/Mr-Banana-2045/chat-ssh-netcat
 cd chat-ssh-netcat
