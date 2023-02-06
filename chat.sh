@@ -52,8 +52,8 @@ elif [ $moz == '2' ]; then
     echo -e "./ssh-chat"
     echo -e "ssh-chat"
     echo -e "\033[92m Copy port"
-    echo -e "\033[00m ssh name@ip"
-    echo -e "\033[92mthe and"
+    echo -e "\033[00mssh name@ip"
+    echo -e "\033[92m the and"
     echo -e "\033[93m"
     read -p " Enter IP > " ip
     read -p " Enter Port > " poo
